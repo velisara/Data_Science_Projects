@@ -4,3 +4,7 @@
 
 # Conda / local env tools
 anaconda_projects/
+
+data.json
+data2.json
+cleaned_data2.json
