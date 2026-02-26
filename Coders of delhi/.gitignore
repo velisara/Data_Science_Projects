@@ -1,0 +1,6 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Conda / local env tools
+anaconda_projects/
